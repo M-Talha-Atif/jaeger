@@ -12,7 +12,6 @@ go.work.sum
 .lint.log
 .envrc
 .idea/
-.vscode/
 .tmp/
 .mkdocs-virtual-env/
 vendor/
